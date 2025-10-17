@@ -1,0 +1,14 @@
+node_modules
+dist
+.vite
+npm-debug.log
+.env
+.env.local
+.env.production
+.git
+.gitignore
+README.md
+.DS_Store
+*.log
+coverage
+.eslintcache
