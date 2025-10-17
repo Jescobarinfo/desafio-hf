@@ -40,8 +40,8 @@ Sistema completo de gestión de productos con Frontend React, Backend Node.js y 
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/Jescobarinfo/desafio-hf-.git
-cd desafio-hf-
+git clone https://github.com/Jescobarinfo/desafio-hf
+cd desafio-hf
 
 # 2. Levantar toda la aplicación
 docker-compose up -d
@@ -55,8 +55,8 @@ docker-compose up -d
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/Jescobarinfo/desafio-hf-.git
-cd desafio-hf-
+git clone https://github.com/Jescobarinfo/desafio-hf
+cd desafio-hf
 
 # 2. Configurar variables de entorno
 cp .env.example .env
